@@ -1,0 +1,8 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.7.131	puppet.server.gab	puppet
+192.168.7.132	jira-git.gab		jira
+192.168.7.133	omd-server.gab		omd
+192.168.7.134	mysql-db.gab		mysql
+192.168.7.135	zimbra-server.gab	zimbra
+192.168.7.136	jenkins-server.gab	jenkins
