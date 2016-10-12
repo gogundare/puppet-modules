@@ -21,6 +21,6 @@ class ssh::ssh {
                 alias   => 'ssh-service-name-two',
                 enable  => true,
         }
-
+        
 }
 
